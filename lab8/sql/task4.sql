@@ -1,0 +1,1 @@
+alter table grupe drop column cod_grupa
